@@ -1,0 +1,18 @@
+{
+    "name": "deryabinsergey/germany-embassy-fetcher",
+    "description": "Google Cloud Function deploy example",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Deriabin Sergei",
+            "email": "deryabinsergey@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "google/cloud-functions-framework": "^1.1",
+        "google/cloud-storage": "^1.27"
+    }
+}
