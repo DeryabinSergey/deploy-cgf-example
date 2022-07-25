@@ -78,6 +78,7 @@ jobs:
           runtime: 'php81'
           entry_point: 'main'
           region: 'europe-west3'
+          source_dir: './src'
           service_account_email: 'cloud-function-runner@cellular-scion-357408.iam.gserviceaccount.com'
           https_trigger_security_level: 'secure_always'
 
